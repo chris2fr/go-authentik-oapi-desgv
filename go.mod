@@ -1,4 +1,4 @@
-module github.com/chris2fr/go-authentik-desgv-client
+module github.com/chris2fr/go-authentik-oapi-desgv
 
 go 1.18
 
