@@ -1,4 +1,4 @@
-module github.com/chris2fr/go-authentik-oapi-desgv/openapi/v0.0.1
+module github.com/chris2fr/go-authentik-oapi-desgv/openapi
 
 go 1.18
 

@@ -14,7 +14,7 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 	"testing"
-	openapiclient "github.com/GIT_USER_ID/GIT_REPO_ID"
+	openapiclient "github.com/chris2fr/go-authentik-oapi-desgv"
 )
 
 func Test_openapi_EnterpriseAPIService(t *testing.T) {
